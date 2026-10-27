@@ -240,6 +240,31 @@ nav a:hover {
     background: white;
 }
 
+.game-guide {
+    padding: 5rem 2rem;
+    background: #f5f5f5;
+}
+
+.game-guide-content {
+    max-width: 850px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+
+.game-guide-content p {
+    margin-bottom: 1.25rem;
+}
+
+.game-guide-content h3 {
+    margin: 2rem 0 0.75rem;
+    color: #333;
+}
+
+.game-guide-content a {
+    color: #5144b8;
+    font-weight: 600;
+}
+
 .features-grid {
     max-width: 1200px;
     margin: 0 auto;
